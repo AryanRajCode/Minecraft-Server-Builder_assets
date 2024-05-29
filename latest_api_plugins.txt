@@ -1,9 +1,17 @@
 via_version:https://ci.viaversion.com/job/ViaVersion/840/artifact/build/libs/ViaVersion-4.10.2.jar
+
 via_backward:https://objects.githubusercontent.com/github-production-release-asset-2e65be/63624217/2c7034d0-e501-498e-ba0b-8bf2c2d0860e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240529%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240529T053534Z&X-Amz-Expires=300&X-Amz-Signature=927a235eacc8a82459af253d894f8e9ccfadc5b30392ad0227cf2339ed379a17&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=63624217&response-content-disposition=attachment%3B%20filename%3DViaBackwards-4.10.2.jar&response-content-type=application%2Foctet-stream
+
 via_rewind:https://hangarcdn.papermc.io/plugins/ViaVersion/ViaRewind/versions/3.1.2/PAPER/ViaRewind-3.1.2.jar
+
 via_legacy:https://hangarcdn.papermc.io/plugins/ViaVersion/ViaRewindLegacySupport/versions/1.5.1/PAPER/ViaRewind-Legacy-Support-1.5.1.jar
+
 geyser:https://download.geysermc.org/v2/projects/geyser/versions/2.3.1/builds/545/downloads/spigot
+
 flood:https://download.geysermc.org/v2/projects/floodgate/versions/2.2.3/builds/107/downloads/spigot
+
 cos:https://download.geysermc.org/v2/projects/thirdpartycosmetics/versions/1.0.0/builds/5/downloads/thirdpartycosmetics
+
 essentials:https://objects.githubusercontent.com/github-production-release-asset-2e65be/33965866/25dea43a-3d2e-4a90-8ebd-e1b0530bdac7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240529%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240529T054019Z&X-Amz-Expires=300&X-Amz-Signature=a1e4ed6417816fda3d78cc494818358e346133b3ce22af754bc7bac496f089e0&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=33965866&response-content-disposition=attachment%3B%20filename%3DEssentialsX-2.20.1.jar&response-content-type=application%2Foctet-stream
+
 rtp:https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version=542316
