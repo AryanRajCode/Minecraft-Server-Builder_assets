@@ -1,5 +1,5 @@
-Default(Paper)
-Paper
+Default(Paper):url1
+Paper:url2
 Purpur
 Fabric
 Spigot
