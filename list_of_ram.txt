@@ -1,6 +1,6 @@
-512Mb:java -Xmx512M -Xms512M -jar minecraft_server.1.20.6.jar nogui
-1Gb:java -Xmx1024M -Xms1024M -jar minecraft_server.1.20.6.jar nogui
-2Gb:java -Xmx2024M -Xms2024M -jar minecraft_server.1.20.6.jar nogui
-3Gb:java -Xmx3024M -Xms3024M -jar minecraft_server.1.20.6.jar nogui
-4Gb:java -Xmx4024M -Xms4024M -jar minecraft_server.1.20.6.jar nogui
-5Gb:java -Xmx5024M -Xms5024M -jar minecraft_server.1.20.6.jar nogui
+512Mb:java -Xmx512M -Xms512M -jar server.jar nogui
+1Gb:java -Xmx1024M -Xms1024M -jar server.jar nogui
+2Gb:java -Xmx2024M -Xms2024M -jar server.jar nogui
+3Gb:java -Xmx3024M -Xms3024M -jar server.jar nogui
+4Gb:java -Xmx4024M -Xms4024M -jar server.jar nogui
+5Gb:java -Xmx5024M -Xms5024M -jar server.jar nogui
