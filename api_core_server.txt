@@ -1,6 +1,6 @@
-Default(Paper):https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/81/downloads/paper-1.20.6-81.jar
-Paper:https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/81/downloads/paper-1.20.6-81.jar
-Purpur:https://api.purpurmc.org/v2/purpur/1.20.6/2217/download
-Fabric:https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.15.11/1.0.1/server/jar
-Spigot:https://download.getbukkit.org/spigot/spigot-1.20.6.jar
-Vanilla:https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar
+Default(Paper)*https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/81/downloads/paper-1.20.6-81.jar
+Paper*https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/81/downloads/paper-1.20.6-81.jar
+Purpur*https://api.purpurmc.org/v2/purpur/1.20.6/2217/download
+Fabric*https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.15.11/1.0.1/server/jar
+Spigot*https://download.getbukkit.org/spigot/spigot-1.20.6.jar
+Vanilla*https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar
