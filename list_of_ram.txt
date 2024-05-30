@@ -1,0 +1,6 @@
+512Mb
+1Gb
+2Gb
+3Gb
+4Gb
+5Gb
