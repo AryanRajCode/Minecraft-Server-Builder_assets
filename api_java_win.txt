@@ -1,0 +1,1 @@
+https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-i586.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-i586.exe&BHost=javadl.sun.com&File=jre-8u411-windows-i586.exe&AuthParam=1717074020_443459d3e916b5e34bf78a5d6568cfbd&ext=.exe
